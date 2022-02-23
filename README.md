@@ -6,5 +6,5 @@ My name is Peace, i am a Fullstack Software Developer.
 - 👯 I’m looking to collaborate on fun projects and develop my coding skills
 - 💬 Ask me about JavaScript, React, Redux and NFTs lol.
 - 📫 Reach me @: abiodunpeace8@gmail.com
-- ⚡ Fun fact:I'm a crypto-gifter <i sell NFTs>, Buy my art!
+- ⚡ Fun fact:I'm a crypto-gifter (i sell NFTs), Buy my art!
 -->
