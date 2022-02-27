@@ -1,10 +1,10 @@
 ### Hi there 👋
-My name is Peace, i am a Fullstack Software Developer.
+My name is Peace, i am a Fullstack Web Developer.
 
 - 🔭 I’m currently working full-time at Huawei Technologies
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on fun projects and develop my coding skills
-- 💬 Ask me about JavaScript, React, and NFTs lol.
+- 🌱 I’m currently learning React.js and constantly developing my coding skills.
+- 👯 I’m looking to collaborate on fun projects and open to being part of a team.
+- 💬 Ask me about CSS, JavaScript, React, and NFTs lol.
 - 📫 Reach me @: abiodunpeace8@gmail.com
-- ⚡ Fun fact:I'm a crypto-gifter (i sell NFTs), Buy my art!
+- ⚡ Fun fact:I love art and i sell NFTs, Buy my art!
 -->
