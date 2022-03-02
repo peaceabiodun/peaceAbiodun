@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Peace, i am a Fullstack Web Developer.
+My name is Peace, i am a Front-End Web Developer.
 
 - 🔭 I’m currently working full-time at Huawei Technologies
 - 🌱 I’m currently learning React.js and constantly developing my coding skills.
