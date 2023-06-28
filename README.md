@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Peace, i am a Front-End Software Developer.
+My name is Peace, i am a Software Engineer.
 
 - 🔭 I currently work at Huawei Technologies
 - 🌱 currently working on a project.
