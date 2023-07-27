@@ -2,9 +2,9 @@
 My name is Peace, i am a Software Engineer.
 
 - 🔭 I currently work at Huawei Technologies
-- 🌱 currently working on a project.
-- 👯 I’m looking to collaborate on fun projects and build valuable software products.
-- 💬 Ask me about JavaScript, React.js, GraphQL.
+- 🌱 I always have my hands occupied with diffrent projects.
+- 👯 I’m looking to collaborate and work on projects and build valuable software products.
+- 💬 Ask me about anything that has to do with frontend web develpment.
 - 📫 Reach me @: abiodunpeace8@gmail.com
-- ⚡ Fun fact: Glory glory Man united.
+- ⚡ Fun fact: I am a Man united fan.
 -->
